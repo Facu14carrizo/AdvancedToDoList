@@ -14,6 +14,7 @@ The **Advanced Task List** is a professional-looking task management application
 
 ## Credits
 Author: Facu14Carrizo
+
 Inspired by the need for an efficient and visually appealing task management tool.
 
 ## License
