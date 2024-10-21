@@ -1,7 +1,7 @@
 # Advanced Task List
 
 ![Advanced Task List Demo](Assets/AdvancedToDoList.gif)
-
+ 
 ## Description
 
 The **Advanced Task List** is a professional-looking task management application that features a sleek and modern aesthetic. This project utilizes specific customizations with CSS and DOM manipulation to create an intuitive user experience. Users can easily add and delete tasks while enjoying a visually appealing interface.
